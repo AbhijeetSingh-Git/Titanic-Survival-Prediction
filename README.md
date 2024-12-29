@@ -40,5 +40,3 @@ This repository contains a machine learning project that predicts passenger surv
 
 ## Results
 - Accuracy: 1.00
-
-## hii
